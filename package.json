@@ -1,0 +1,16 @@
+{
+  "name": "sequelize-sqlite-test",
+  "version": "1.0.0",
+  "description": "Using sequelize and sqlite test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["sequelize", "sqlite"],
+  "author": "tanmv",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
